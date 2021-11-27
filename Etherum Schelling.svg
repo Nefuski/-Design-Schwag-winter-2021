@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil14 {fill:none}
+    .fil1 {fill:none}
+    .fil4 {fill:#00AFEF}
+    .fil0 {fill:black}
+    .fil7 {fill:#725D1A}
+    .fil5 {fill:#927620}
+    .fil6 {fill:#D7BA5A}
+    .fil10 {fill:#F2C808}
+    .fil13 {fill:#033B61;fill-opacity:0.788235}
+    .fil12 {fill:url(#id8)}
+    .fil8 {fill:url(#id9)}
+    .fil11 {fill:url(#id10)}
+    .fil3 {fill:url(#id11)}
+    .fil2 {fill:url(#id12)}
+    .fil9 {fill:url(#id13)}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M1467.39 5917.64l17122.33 0 0 17122.33 -17122.33 0 0 -17122.33z"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M1467.39 5917.64l17122.33 0 0 17122.33 -17122.33 0 0 -17122.33z"/>
+   </clipPath>
+     <mask id="id2">
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="15357.99" y1="11250.54" x2="7530.26" y2="16277.52">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id3)" x="1856.41" y="6223.57" width="16710.53" height="14508.31"/>
+     </mask>
+     <mask id="id4">
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" x1="4468.19" y1="11215.14" x2="12295.91" y2="16242.12">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </linearGradient>
+      <rect style="fill:url(#id5)" x="1259.24" y="6188.17" width="16710.53" height="14508.31"/>
+     </mask>
+    <clipPath id="id6">
+     <path d="M1467.39 5917.64l17122.33 0 0 17122.33 -17122.33 0 0 -17122.33z"/>
+    </clipPath>
+    <clipPath id="id7">
+     <path d="M1467.39 5917.64l17122.33 0 0 17122.33 -17122.33 0 0 -17122.33z"/>
+    </clipPath>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" x1="7083.97" y1="20631.81" x2="19937.46" y2="21045.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00AFEF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#033B61"/>
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" xlink:href="#id8" x1="15937.74" y1="15076.43" x2="18454.03" y2="15151.8">
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" xlink:href="#id8" x1="2789.12" y1="19833.39" x2="12970.6" y2="20160.82">
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id8" x1="4408.64" y1="13730.93" x2="17253.24" y2="14333.62">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" xlink:href="#id8" x1="15417.54" y1="13766.33" x2="2572.94" y2="14369.02">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id8" x1="2000.5" y1="15281.34" x2="4516.78" y2="15356.71">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" x="-11326.92" y="-7075.24" width="42333.33" height="42333.33"/>
+  <g style="clip-path:url(#id0)">
+   <polygon class="fil1" points="1467.39,5917.64 18589.72,5917.64 18589.72,23039.97 1467.39,23039.97 "/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <g id="_2472063469776">
+    <polygon id="_1" class="fil2" style="mask:url(#id2)" points="18566.94,6223.57 1856.41,18324.62 4233.31,20731.88 18566.94,11031.57 "/>
+    <polygon class="fil3" style="mask:url(#id4)" points="1259.24,6188.17 17969.77,18289.22 15592.87,20696.48 1259.24,10996.17 "/>
+   </g>
+   <g style="clip-path:url(#id6)">
+    <image x="-5460.87" y="-12146.31" width="32386.59" height="37721.41" xlink:href="eth_Images\eth_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id7)">
+    <polygon class="fil4" points="544.63,16795.48 4198.04,19591.55 3884.66,19908.94 544.63,17429.39 "/>
+    <g>
+     <polygon class="fil5" points="9985.74,18689.53 13039.18,16916.18 9993.04,21195.97 "/>
+     <polygon class="fil6" points="9984.84,18689.53 6931.4,16916.18 9977.54,21195.97 "/>
+     <polygon class="fil6" points="9998.17,11187.09 9975.73,14885.47 6900.37,16274.02 "/>
+     <polygon class="fil5" points="10003.16,11186.32 9975.64,14885.37 13083.93,16290.26 "/>
+     <polygon class="fil5" points="6900.37,16281.86 9973.71,14887.48 9967.56,18093.89 "/>
+     <polygon class="fil7" points="13082.99,16291.2 9975.73,14887.39 9967.56,18093.89 "/>
+    </g>
+    <polygon class="fil8" points="18593.15,13465.72 15440.15,15783.88 15322.44,16514.57 18593.15,14086.48 "/>
+    <polygon class="fil9" points="1385.2,13670.63 4538.19,15988.79 4655.91,16719.47 1385.2,14291.39 "/>
+    <polygon class="fil10" points="1484.52,19744.78 2967.71,18867.65 1484.52,17863.9 "/>
+    <polygon class="fil4" points="16000.56,21618.82 15600.16,21382.03 16000.56,21111.06 "/>
+    <polygon class="fil10" points="15618.6,22655.66 16506.47,21988.86 15618.6,21389.43 "/>
+    <polygon class="fil4" points="2559.79,17209.77 1956.49,17582.48 2567.87,18033.74 "/>
+    <polygon class="fil4" points="2226.12,19317.6 1484.52,19756.17 2226.12,20258.05 "/>
+    <polygon class="fil11" points="297.94,13783.64 13534.66,23369.11 11651.87,25275.95 297.94,17592.15 "/>
+    <polygon class="fil12" points="20649.54,12994.39 3939.01,25095.44 6315.91,27502.7 20649.54,17802.39 "/>
+    <polygon class="fil4" points="6257.06,21627.86 9305.54,23687.57 9416.38,24187.27 6282.38,22055.18 "/>
+    <polygon class="fil13" points="2422.93,18571.39 7623.92,21763.59 7448.84,23242.79 2110.75,19707.7 "/>
+   </g>
+  </g>
+  <polygon class="fil14" points="1467.39,5917.64 18589.72,5917.64 18589.72,23039.97 1467.39,23039.97 "/>
+ </g>
+</svg>
